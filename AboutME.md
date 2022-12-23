@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marc
+- 👀 I’m interested in programming, hacking (ethically of course) and doing Karaté.
+- 🌱 I’m currently learning the most common ways and tools to hack and how to develop the Backend of an Website.
+- 📫 You can reach me via Instagram (marc_bchnr) and of course via GitHub.
